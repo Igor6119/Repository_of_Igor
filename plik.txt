@@ -1,3 +1,11 @@
+<<<<<<< HEAD
 erergd
 fdffgdgd
 sfgfdddg
+=======
+vdghffbg
+sdzrf
+drgred
+zfgv
+dgxbgxhh
+>>>>>>> d0b391ea9c569a402c08b7157a37e7f93a0fa01b
